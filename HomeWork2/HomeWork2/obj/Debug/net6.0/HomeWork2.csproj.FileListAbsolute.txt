@@ -1,0 +1,16 @@
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\bin\Debug\net6.0\HomeWork2.exe
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\bin\Debug\net6.0\HomeWork2.deps.json
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\bin\Debug\net6.0\HomeWork2.runtimeconfig.json
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\bin\Debug\net6.0\HomeWork2.dll
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\bin\Debug\net6.0\HomeWork2.pdb
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.csproj.AssemblyReference.cache
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.AssemblyInfoInputs.cache
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.AssemblyInfo.cs
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.csproj.CoreCompileInputs.cache
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.dll
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\refint\HomeWork2.dll
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.pdb
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.genruntimeconfig.cache
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\ref\HomeWork2.dll
+D:\Project\C#\DigDes\HomeWork2\HomeWork2\obj\Debug\net6.0\HomeWork2.csproj.CopyComplete

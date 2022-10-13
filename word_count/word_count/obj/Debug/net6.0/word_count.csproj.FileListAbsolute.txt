@@ -1,0 +1,12 @@
+D:\Project\C#\DigDes\word_count\word_count\bin\Debug\net6.0\word_count.deps.json
+D:\Project\C#\DigDes\word_count\word_count\bin\Debug\net6.0\word_count.dll
+D:\Project\C#\DigDes\word_count\word_count\bin\Debug\net6.0\word_count.pdb
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\word_count.csproj.AssemblyReference.cache
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\word_count.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\word_count.AssemblyInfoInputs.cache
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\word_count.AssemblyInfo.cs
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\word_count.csproj.CoreCompileInputs.cache
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\word_count.dll
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\refint\word_count.dll
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\word_count.pdb
+D:\Project\C#\DigDes\word_count\word_count\obj\Debug\net6.0\ref\word_count.dll
